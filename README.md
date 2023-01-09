@@ -5,7 +5,7 @@ To run it,
 
 first, in the terminal clone the repository and "cd" to directory "13-Flask-Caesar-Cipher"
 
-    $ git clone https://github.com/vi-u/13-Flask-Caesar-Cipher.git
+    $ git clone https://github.com/Just-Vit/13-Flask-Caesar-Cipher.git
 
 then
 
